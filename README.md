@@ -15,6 +15,7 @@ The project extracts the following information:
 - Number of followers
 - Number of following
 - Bio
+- How many categories
 
 🔄 Project Workflow
 

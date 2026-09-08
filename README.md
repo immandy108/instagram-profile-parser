@@ -74,7 +74,7 @@ The project performs basic analysis on the parsed profile data, including:
     "Bio": "Python Developer",
     "type_of_page": "Personal Blog"
 }
-
+```
 
 
 
@@ -82,7 +82,7 @@ The project performs basic analysis on the parsed profile data, including:
 
 🖼️ Project Output
 The notebook performs analysis on the structured profile data.
-
+![Project Output](assets/project-output.png)
 
 📚 What I Learned
 Through this project, I learned how to:
@@ -112,11 +112,3 @@ Perform more detailed data analysis
 ```
 👨‍💻 Author
 Mandeep Kumar
-
-
-
-🖼️ Project Output
-
-The notebook performs analysis on the structured profile data.
-
-![Project Output](assets/project-output.png)

@@ -1,0 +1,7 @@
+initialdata.txt
+finaldata.txt
+data.json
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.env

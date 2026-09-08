@@ -1,8 +1,8 @@
-# Instagram Profile Data Parser
+Instagram Profile Data Parser
 
 A Python data parsing project that extracts and structures Instagram profile information from unstructured text data.
 
-## 📌 Problem Statement
+📌 Problem Statement
 
 The input dataset contains Instagram profile information in an unstructured text format.
 
@@ -16,7 +16,7 @@ The project extracts the following information:
 - Number of following
 - Bio
 
-## 🔄 Project Workflow
+🔄 Project Workflow
 
 ```text
 Raw Text Data
@@ -36,13 +36,13 @@ Analyze the Data
 
 
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
 - Python
 - Jupyter Notebook
 - JSON
 
-## 🧠 Python Concepts Used
+🧠 Python Concepts Used
 
 - Lists
 - Dictionaries
@@ -54,7 +54,7 @@ Analyze the Data
 - Data parsing
 - Set operations
 
-## 📊 Analysis Performed
+📊 Analysis Performed
 
 The project performs basic analysis on the parsed profile data, including:
 
@@ -63,7 +63,7 @@ The project performs basic analysis on the parsed profile data, including:
 - Finding the profile following the maximum number of accounts
 - Finding the number of unique profile categories
 
-## 💡 Example Output
+💡 Example Output
 
 ```python
 {
@@ -115,9 +115,8 @@ Mandeep Kumar
 
 
 
+🖼️ Project Output
 
-
-
-
+The notebook performs analysis on the structured profile data.
 
 ![Project Output](assets/project-output.png)
